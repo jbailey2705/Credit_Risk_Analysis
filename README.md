@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 Supervised Machine Learning and Credit Risk
 
-## Loan prediction risk analysis, Overview & Resources:
+## Loan prediction risk analysis - Overview & Resources:
 Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. We can use different techniques to train and evaluate models with unbalanced classes. Multible libraries and algorithms were used to build and evaluate models using resampling:
 
   * **`imbalanced-learn`**
