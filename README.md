@@ -76,6 +76,8 @@ Recall: High/Low risk = `.59/.65`
 ## Summary:
 
 Working with balanced accuracy, the highest compared accuracy is between 0 and 1 which is closest to 1, representing the best machine learning model for our analysis. Credit card data, the Easy Ensemble AdaBoost Classifier shows to be the best model to show this data, with a .93 balanced accuracy. Other models tested showed below .80 balanced accuracy. 
+
 Precision data across each model presented similar data, and showed to be within an appropriate data range. The recall score shows to also fall within 0 and 1, with the data showing to be closer to 1, determining to be the better model. 
+
 Finally, Easy Ensemble AdaBoost Classifier showed to have the highest recall score, making it the best machine learning model, which can be used for further credit card analysis.
 
